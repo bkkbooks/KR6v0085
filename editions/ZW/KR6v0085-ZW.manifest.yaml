@@ -1,0 +1,418 @@
+canonical_identifier: bkk:krp/KR6v0085/ZW/v1
+canonical_location: https://kanripo.org/bkk/KR6v0085/ZW/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 寧夏西夏方塔出土漢文佛典敘錄
+  identifiers:
+    krp: KR6v0085
+    cbeta: ZW07n0065
+    cbeta_old_id: ZW07n0065
+    authorityid: CA0008484
+    json_key: ZW0065
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW07/ZW07n0065.xml
+    old_id: ZW07n0065
+  edition:
+    short: ZW
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0085_000-ZW.yaml, hash: 'sha256:7bbd7ff821c1d522641342e392cad9c617405371227e7206975cac7ca505cdde'}
+  - {seq: 1, filename: KR6v0085_001-ZW.yaml, hash: 'sha256:279dcb30e06994553a94e12fa76811952e625c4783e42fd932198a60b11500b1'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0085_000-ZW.markers.yaml, hash: 'sha256:0f6b0f3dec964865b09265dc5fc536ae4fa442131164771f34de1031a0ad464d'}
+  - {seq: 1, role: markers, filename: assets/KR6v0085_001-ZW.markers.yaml, hash: 'sha256:d8c90486aeca81d7f80d956eeaeefdc29c2b1cfec9a253196029db3c0a35e3a7'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0085_ZW_001-juan-start
+    span:
+    - body
+    - 0
+    - 17067
+  label: 寧夏西夏方塔出土漢文佛典敘錄
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0085_ZW_001-mulu-1
+    span:
+    - body
+    - 3
+    - 3
+  label: 前言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0085_ZW_001-mulu-2
+    span:
+    - body
+    - 133
+    - 133
+  label: 一、圓覺道場禮懺一本
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0085_ZW_001-mulu-3
+    span:
+    - body
+    - 142
+    - 142
+  label: 版本
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0085_ZW_001-mulu-4
+    span:
+    - body
+    - 569
+    - 569
+  label: 錄文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0085_ZW_001-mulu-5
+    span:
+    - body
+    - 841
+    - 841
+  label: 說明
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0085_ZW_001-mulu-6
+    span:
+    - body
+    - 1276
+    - 1276
+  label: 二、異本救諸眾生一切苦難經（擬）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0085_ZW_001-mulu-7
+    span:
+    - body
+    - 1289
+    - 1289
+  label: 版本
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0085_ZW_001-mulu-8
+    span:
+    - body
+    - 1455
+    - 1455
+  label: 錄文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0085_ZW_001-mulu-9
+    span:
+    - body
+    - 1567
+    - 1567
+  label: 說明
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0085_ZW_001-mulu-10
+    span:
+    - body
+    - 1956
+    - 1956
+  label: 三、大方廣圓覺修多羅了義經略疏卷下
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0085_ZW_001-mulu-11
+    span:
+    - body
+    - 1972
+    - 1972
+  label: 版本
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0085_ZW_001-mulu-12
+    span:
+    - body
+    - 2931
+    - 2931
+  label: 說明
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0085_ZW_001-mulu-13
+    span:
+    - body
+    - 3093
+    - 3093
+  label: 四、佛頂心陀羅尼經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0085_ZW_001-mulu-14
+    span:
+    - body
+    - 3101
+    - 3101
+  label: 版本
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0085_ZW_001-mulu-15
+    span:
+    - body
+    - 4112
+    - 4112
+  label: 錄文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0085_ZW_001-mulu-16
+    span:
+    - body
+    - 7219
+    - 7219
+  label: 說明
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0085_ZW_001-mulu-17
+    span:
+    - body
+    - 7467
+    - 7467
+  label: 五、眾經集要（擬）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0085_ZW_001-mulu-18
+    span:
+    - body
+    - 7473
+    - 7473
+  label: 版本
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0085_ZW_001-mulu-19
+    span:
+    - body
+    - 9814
+    - 9814
+  label: 說明
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0085_ZW_001-mulu-20
+    span:
+    - body
+    - 11240
+    - 11240
+  label: 六、三十五佛名禮懺功德文附仁宗施經願文（擬）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0085_ZW_001-mulu-21
+    span:
+    - body
+    - 11259
+    - 11259
+  label: 版本
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0085_ZW_001-mulu-22
+    span:
+    - body
+    - 11470
+    - 11470
+  label: 錄文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0085_ZW_001-mulu-23
+    span:
+    - body
+    - 12165
+    - 12165
+  label: 說明
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0085_ZW_001-mulu-24
+    span:
+    - body
+    - 13488
+    - 13488
+  label: 七、吉祥上樂輪等虛空本續
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0085_ZW_001-mulu-25
+    span:
+    - body
+    - 13499
+    - 13499
+  label: 版本
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0085_ZW_001-mulu-26
+    span:
+    - body
+    - 14927
+    - 14927
+  label: 說明
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0085_ZW_001-mulu-27
+    span:
+    - body
+    - 15377
+    - 15377
+  label: 八、修持儀軌（擬）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0085_ZW_001-mulu-28
+    span:
+    - body
+    - 15383
+    - 15383
+  label: 版本
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0085_ZW_001-mulu-29
+    span:
+    - body
+    - 16472
+    - 16472
+  label: 說明
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0085_ZW_001-mulu-30
+    span:
+    - body
+    - 16599
+    - 16599
+  label: 九、殘密教文獻
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0085_ZW_001-mulu-31
+    span:
+    - body
+    - 16605
+    - 16605
+  label: 版本
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0085_ZW_001-mulu-32
+    span:
+    - body
+    - 16828
+    - 16828
+  label: 說明
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0085_ZW_001-mulu-33
+    span:
+    - body
+    - 16889
+    - 16889
+  label: 十、殘疏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0085_ZW_001-mulu-34
+    span:
+    - body
+    - 16892
+    - 16892
+  label: 版本
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0085_ZW_001-mulu-35
+    span:
+    - body
+    - 16982
+    - 16982
+  label: 說明
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0085_ZW_001-mulu-36
+    span:
+    - body
+    - 17011
+    - 17011
+  label: 十一、殘佛經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0085_ZW_001-mulu-37
+    span:
+    - body
+    - 17016
+    - 17016
+  label: 版本
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0085_ZW_001-mulu-38
+    span:
+    - body
+    - 17055
+    - 17055
+  label: 說明
+  type: mulu
+  level: 1
+hash: sha256:5a906cd92f3643177a6469d06de4b04844a5990a12d5576bab38c30dc9d154d4

@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0085/zw/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 寧夏西夏方塔出土漢文佛典敘錄
+  edition:
+    short: zw
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW07/ZW07n0065.xml
+    old_id: ZW07n0065
+hash: sha256:7bbd7ff821c1d522641342e392cad9c617405371227e7206975cac7ca505cdde
