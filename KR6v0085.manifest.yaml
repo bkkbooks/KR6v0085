@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0085/v1
 canonical_location: https://kanripo.org/bkk/KR6v0085/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 寧夏西夏方塔出土漢文佛典敘錄
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0085_000.yaml, hash: 'sha256:7bbd7ff821c1d522641342e392cad9c617405371227e7206975cac7ca505cdde'}
-  - {seq: 1, filename: KR6v0085_001.yaml, hash: 'sha256:279dcb30e06994553a94e12fa76811952e625c4783e42fd932198a60b11500b1'}
+  - {seq: 1, filename: KR6v0085_001.yaml, hash: 'sha256:076ac9fb2283442efa3ee62c4f84ffa20be12a262ad44c456f71656b26f7cb34'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6v0085_000.markers.yaml, hash: 'sha256:4f068f3f85943f031be1aa463fed18aca706b9170f6373e54668e36abd5cc166'}
-  - {seq: 1, role: markers, filename: assets/KR6v0085_001.markers.yaml, hash: 'sha256:97302f64e8c19035598c7c9035cc49296f38622a1e42f1975cccebf5ef979003'}
+  - {seq: 1, role: markers, filename: assets/KR6v0085_001.markers.yaml, hash: 'sha256:a557f10e8eb3f62a2e9919184a613796ee53f1a56cf8b66a046d8edb1b596f1a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -417,4 +417,7 @@ table_of_contents:
   label: 說明
   type: mulu
   level: 1
-hash: sha256:c6d1cc4f5fedd06c8ac20634d470d7c2cb1bdaf563eed22b19b9b53f14388dcb
+hash: sha256:3852378e44033282ec4ce265f8f8120919896d8942704674ded76263ad5c1006
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
